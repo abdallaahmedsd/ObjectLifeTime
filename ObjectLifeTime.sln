@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleGC", "SimpleGC\Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFinalize", "SimpleFinalize\SimpleFinalize.csproj", "{0D5D7AE5-FDA1-4FA4-B578-F6D806FCB6AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDispose", "SimpleDispose\SimpleDispose.csproj", "{8E089A70-EFA0-4A67-B8BB-368E2270E722}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0D5D7AE5-FDA1-4FA4-B578-F6D806FCB6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D5D7AE5-FDA1-4FA4-B578-F6D806FCB6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D5D7AE5-FDA1-4FA4-B578-F6D806FCB6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E089A70-EFA0-4A67-B8BB-368E2270E722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E089A70-EFA0-4A67-B8BB-368E2270E722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E089A70-EFA0-4A67-B8BB-368E2270E722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E089A70-EFA0-4A67-B8BB-368E2270E722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
